@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Tim-Kumpat from germany
-- 👀 I’m interested in learning new things. I'm always open for new tech and I love learning new things.
-- 🌱 I’m currently learning React and JavaScript
+- 👀 I'm always open for new tech and I love learning new things.
+- 🌱 I’m currently improving my front and backend skills with daily coding sessions
 - 📫 You can contact me via LinkedIn
 
-I'm a 17 year old founder, self taught beginner software engineer, web designer, graphic designer and high school student. I will graduate in June 2024 and start studying computer science afterwards.
+I'm a 17 year old founder, self taught software engineer, web designer, graphic designer and high school student. I will graduate in June 2024 and start studying computer science afterwards.
 
 When I was 13 years old I taught myself how to build websites with CMS Systems like WordPress. When I was 15 years old, I founded my own firm.
 

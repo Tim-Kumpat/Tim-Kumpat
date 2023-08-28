@@ -5,7 +5,7 @@
 
 I'm a 17 year old founder, self taught software engineer, web designer, graphic designer and high school student. I will graduate in June 2024 and start studying computer science afterwards.
 
-When I was 13 years old I taught myself how to build websites with CMS Systems like WordPress. When I was 15 years old, I founded my own firm.
+When I was 13 years old I taught myself how to build websites. When I was 15 years old, I founded my own firm.
 
 If you have any questions or just wanna connect, feel free to contact me on LinkedIn!
 

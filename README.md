@@ -3,7 +3,7 @@
 - 🌱 I’m currently improving my front and backend skills with daily coding sessions
 - 📫 You can contact me via LinkedIn
 
-I'm a 17 year old founder, self taught software engineer, web designer, graphic designer and high school student. I will graduate in June 2024 and start studying computer science afterwards.
+I'm a 17 year old founder, self taught software engineer, web designer, graphic designer and high school student. I'm the founder of [Jump Apps](https://github.com/Jump-Apps) and [Jump Webdesign](https://jumpwebdesign.de/).
 
 When I was 13 years old I taught myself how to build websites. When I was 15 years old, I founded my own firm.
 

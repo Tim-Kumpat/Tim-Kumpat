@@ -5,6 +5,8 @@
 
 I'm a 17 year old founder, self taught software engineer, web designer, graphic designer and high school student. I'm the founder of [Jump Apps](https://github.com/Jump-Apps) and [Jump Webdesign](https://jumpwebdesign.de/).
 
+Personal projects will be published on this GitHub Account (Tim Kumpat) and every project related to Jump Apps will be published on the Jump Apps organization profile.
+
 When I was 13 years old I taught myself how to build websites. When I was 15 years old, I founded my own firm.
 
 If you have any questions or just wanna connect, feel free to contact me on LinkedIn!

@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Tim-Kumpat from germany
-- 👀 I'm always open for new tech and I love learning new things.
-- 🌱 I’m currently improving my front and backend skills with daily coding sessions
 - 📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/timkumpat/) or X (@TimKumpat)
 
 I'm a 17 year old founder, self taught software engineer and high school student. I'm the founder of [Jump Apps](https://jump-apps.com) and [Jump Webdesign](https://jumpwebdesign.de/).

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tim-Kumpat
 - 📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/timkumpat/)
 
-I'm a 17 year old founder, self taught software engineer and high school student. I'm the founder of [Jump Apps](https://jump-apps.com) and [Jump Webdesign](https://jumpwebdesign.de/).
+I'm a 18 year old founder, self taught software engineer and high school student. I'm the founder of [Jump Apps](https://jump-apps.com) and [Jump Webdesign](https://jumpwebdesign.de/).
 
 Personal projects will be published on this GitHub Account (Tim Kumpat) and every project related to Jump Apps will be published on the [Jump Apps organization profile](https://github.com/Jump-Apps).
 
